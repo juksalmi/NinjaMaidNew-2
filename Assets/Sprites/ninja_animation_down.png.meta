@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 0ca5c4fae96044920b6e58f53e4e5ec9
+timeCreated: 1433836765
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninja_animation_down_0
+    21300002: ninja_animation_down_1
+    21300004: ninja_animation_down_4
+    21300006: ninja_animation_down_5
+    21300008: ninja_animation_down_6
+    21300010: ninja_animation_down_7
+    21300012: ninja_animation_down_8
+    21300014: ninja_animation_down_10
+    21300016: ninja_animation_down_12
+    21300018: ninja_animation_down_13
+    21300020: ninja_animation_down_14
+    21300022: ninja_animation_down_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ninja_animation_down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 267
+        height: 566
+      alignment: 9
+      pivot: {x: .383729607, y: .291458279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 17
+        width: 331
+        height: 545
+      alignment: 9
+      pivot: {x: .507031202, y: .274212539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_4
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 19
+        width: 393
+        height: 545
+      alignment: 9
+      pivot: {x: .575886726, y: .262712151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_5
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 0
+        width: 271
+        height: 564
+      alignment: 9
+      pivot: {x: .381926924, y: .282340556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_6
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 25
+        width: 247
+        height: 552
+      alignment: 9
+      pivot: {x: .338039875, y: .263282508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_7
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 16
+        width: 245
+        height: 559
+      alignment: 9
+      pivot: {x: .324126065, y: .288495958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_8
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 28
+        width: 277
+        height: 547
+      alignment: 9
+      pivot: {x: .361148328, y: .263579577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_10
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 17
+        width: 325
+        height: 554
+      alignment: 9
+      pivot: {x: .298562199, y: .297192067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_12
+      rect:
+        serializedVersion: 2
+        x: 5324
+        y: 13
+        width: 244
+        height: 562
+      alignment: 9
+      pivot: {x: .322601825, y: .283612162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_13
+      rect:
+        serializedVersion: 2
+        x: 5857
+        y: 22
+        width: 243
+        height: 551
+      alignment: 9
+      pivot: {x: .328217417, y: .278936028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_14
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 23
+        width: 448
+        height: 517
+      alignment: 9
+      pivot: {x: .633955836, y: .27728045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_down_16
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 29
+        width: 424
+        height: 540
+      alignment: 9
+      pivot: {x: .322842568, y: .263007849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

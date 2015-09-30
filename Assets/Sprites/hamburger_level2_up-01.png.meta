@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 23560a3a6985f4db6a6526f509eca7ee
+timeCreated: 1433836480
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hamburger_level2_up-01_0
+    21300002: hamburger_level2_up-01_1
+    21300004: hamburger_level2_up-01_2
+    21300006: hamburger_level2_up-01_3
+    21300008: hamburger_level2_up-01_4
+    21300010: hamburger_level2_up-01_5
+    21300012: hamburger_level2_up-01_6
+    21300014: hamburger_level2_up-01_7
+    21300016: hamburger_level2_up-01_8
+    21300018: hamburger_level2_up-01_9
+    21300020: hamburger_level2_up-01_10
+    21300022: hamburger_level2_up-01_11
+    21300024: hamburger_level2_up-01_12
+    21300026: hamburger_level2_up-01_13
+    21300028: hamburger_level2_up-01_14
+    21300030: hamburger_level2_up-01_15
+    21300032: hamburger_level2_up-01_16
+    21300034: hamburger_level2_up-01_17
+    21300036: hamburger_level2_up-01_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hamburger_level2_up-01_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 43
+        width: 410
+        height: 437
+      alignment: 9
+      pivot: {x: .486121804, y: .311202943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 43
+        width: 410
+        height: 437
+      alignment: 9
+      pivot: {x: .493060738, y: .298182428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_2
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 33
+        width: 420
+        height: 447
+      alignment: 9
+      pivot: {x: .479678214, y: .315426618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_3
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 33
+        width: 419
+        height: 447
+      alignment: 9
+      pivot: {x: .493209809, y: .30269742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_4
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 33
+        width: 419
+        height: 447
+      alignment: 9
+      pivot: {x: .486419618, y: .309062034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_5
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 33
+        width: 419
+        height: 447
+      alignment: 9
+      pivot: {x: .486419618, y: .315426618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_6
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 43
+        width: 419
+        height: 437
+      alignment: 9
+      pivot: {x: .486419022, y: .304692715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_7
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 43
+        width: 419
+        height: 437
+      alignment: 9
+      pivot: {x: .493209511, y: .298182428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_8
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 43
+        width: 419
+        height: 437
+      alignment: 9
+      pivot: {x: .493209511, y: .311202943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_9
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 43
+        width: 419
+        height: 437
+      alignment: 9
+      pivot: {x: .5, y: .304692715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_10
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 52
+        width: 410
+        height: 428
+      alignment: 9
+      pivot: {x: .49306044, y: .293938577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_11
+      rect:
+        serializedVersion: 2
+        x: 5685
+        y: 52
+        width: 419
+        height: 428
+      alignment: 9
+      pivot: {x: .493209511, y: .287291408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_12
+      rect:
+        serializedVersion: 2
+        x: 6181
+        y: 62
+        width: 410
+        height: 428
+      alignment: 9
+      pivot: {x: .499998808, y: .273997277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_13
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 62
+        width: 410
+        height: 428
+      alignment: 9
+      pivot: {x: .499998808, y: .267350107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_14
+      rect:
+        serializedVersion: 2
+        x: 7201
+        y: 62
+        width: 419
+        height: 418
+      alignment: 9
+      pivot: {x: .493209511, y: .275396466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_15
+      rect:
+        serializedVersion: 2
+        x: 7697
+        y: 52
+        width: 419
+        height: 428
+      alignment: 9
+      pivot: {x: .493209511, y: .287291408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_16
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 52
+        width: 419
+        height: 428
+      alignment: 9
+      pivot: {x: .486419022, y: .287291408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_17
+      rect:
+        serializedVersion: 2
+        x: 8707
+        y: 43
+        width: 419
+        height: 437
+      alignment: 9
+      pivot: {x: .5, y: .317713201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hamburger_level2_up-01_18
+      rect:
+        serializedVersion: 2
+        x: 9183
+        y: 43
+        width: 420
+        height: 437
+      alignment: 9
+      pivot: {x: .506773174, y: .304692715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TestInstantiate.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MouseDrag.cs" Line="351" Column="1" />
+      <File FileName="Assets/Scripts/ObstaclesGenerator.cs" Line="4" Column="44" />
+      <File FileName="Assets/Scripts/TestInstantiate.cs" Line="261" Column="1" />
+      <File FileName="../../lal/NinjaMaidNew 2 FInalFinal/Assets/Scripts/TestInstantiate.cs" Line="139" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

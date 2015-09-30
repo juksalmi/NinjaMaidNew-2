@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SaveTop10ToFile.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MouseDrag.cs" Line="156" Column="18" />
+      <File FileName="Assets\Scripts\PowerUpScript.cs" Line="6" Column="23" />
+      <File FileName="Assets\Scripts\Database.cs" Line="18" Column="4" />
+      <File FileName="Assets\Scripts\Top10Script.cs" Line="24" Column="47" />
+      <File FileName="Assets\Scripts\SaveTop10ToFile.cs" Line="46" Column="17" />
+      <File FileName="Assets\Scripts\WriteReadTextFile.cs" Line="80" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

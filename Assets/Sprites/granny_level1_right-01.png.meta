@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 8ec3500814e7d4050a8e1dbf986ef138
+timeCreated: 1433837232
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: granny_level1_right-01_0
+    21300002: granny_level1_right-01_1
+    21300004: granny_level1_right-01_2
+    21300006: granny_level1_right-01_3
+    21300008: granny_level1_right-01_4
+    21300010: granny_level1_right-01_5
+    21300012: granny_level1_right-01_6
+    21300014: granny_level1_right-01_7
+    21300016: granny_level1_right-01_8
+    21300018: granny_level1_right-01_9
+    21300020: granny_level1_right-01_10
+    21300022: granny_level1_right-01_11
+    21300024: granny_level1_right-01_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: granny_level1_right-01_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 281
+        height: 591
+      alignment: 9
+      pivot: {x: .508520067, y: .402775854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 19
+        width: 277
+        height: 595
+      alignment: 9
+      pivot: {x: .482713729, y: .399405599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 19
+        width: 281
+        height: 599
+      alignment: 9
+      pivot: {x: .482959896, y: .396080405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_3
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 21
+        width: 277
+        height: 600
+      alignment: 9
+      pivot: {x: .49135679, y: .396253616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_4
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 19
+        width: 281
+        height: 604
+      alignment: 9
+      pivot: {x: .491479844, y: .39297688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_5
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 19
+        width: 277
+        height: 604
+      alignment: 9
+      pivot: {x: .4740704, y: .39297688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_6
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 19
+        width: 281
+        height: 604
+      alignment: 9
+      pivot: {x: .482959688, y: .39297688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_7
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 19
+        width: 277
+        height: 604
+      alignment: 9
+      pivot: {x: .491357237, y: .389013052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_8
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 19
+        width: 281
+        height: 604
+      alignment: 9
+      pivot: {x: .482959688, y: .39297688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_9
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 15
+        width: 277
+        height: 603
+      alignment: 9
+      pivot: {x: .5, y: .396769792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_10
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 19
+        width: 281
+        height: 595
+      alignment: 9
+      pivot: {x: .500000894, y: .391358048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_11
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 15
+        width: 281
+        height: 599
+      alignment: 9
+      pivot: {x: .5, y: .404074341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: granny_level1_right-01_12
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 15
+        width: 281
+        height: 599
+      alignment: 9
+      pivot: {x: .491480261, y: .388086706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

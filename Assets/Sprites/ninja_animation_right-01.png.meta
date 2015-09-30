@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 01c896b4254984a15849ebae43406c57
+timeCreated: 1433836865
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninja_animation_right-01_0
+    21300002: ninja_animation_right-01_1
+    21300004: ninja_animation_right-01_3
+    21300006: ninja_animation_right-01_5
+    21300008: ninja_animation_right-01_6
+    21300010: ninja_animation_right-01_7
+    21300012: ninja_animation_right-01_8
+    21300014: ninja_animation_right-01_11
+    21300016: ninja_animation_right-01_12
+    21300018: ninja_animation_right-01_13
+    21300020: ninja_animation_right-01_14
+    21300022: ninja_animation_right-01_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ninja_animation_right-01_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 67
+        width: 246
+        height: 555
+      alignment: 9
+      pivot: {x: .674425423, y: .277156621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_1
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 61
+        width: 246
+        height: 561
+      alignment: 9
+      pivot: {x: .674425602, y: .288538367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_3
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 65
+        width: 344
+        height: 560
+      alignment: 9
+      pivot: {x: .698107719, y: .297175288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_5
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 76
+        width: 277
+        height: 546
+      alignment: 9
+      pivot: {x: .645792484, y: .273483306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_6
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 61
+        width: 246
+        height: 561
+      alignment: 9
+      pivot: {x: .674425602, y: .297536731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_7
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 73
+        width: 246
+        height: 552
+      alignment: 9
+      pivot: {x: .653903842, y: .271372914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_8
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 45
+        width: 268
+        height: 567
+      alignment: 9
+      pivot: {x: .61058569, y: .29329589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_11
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 67
+        width: 330
+        height: 542
+      alignment: 9
+      pivot: {x: .491833866, y: .266363055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_12
+      rect:
+        serializedVersion: 2
+        x: 5949
+        y: 51
+        width: 272
+        height: 565
+      alignment: 9
+      pivot: {x: .604005694, y: .297332853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_13
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 80
+        width: 432
+        height: 534
+      alignment: 9
+      pivot: {x: .686965942, y: .277846485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_14
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 65
+        width: 402
+        height: 534
+      alignment: 9
+      pivot: {x: .416222125, y: .272953868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_right-01_15
+      rect:
+        serializedVersion: 2
+        x: 4849
+        y: 77
+        width: 468
+        height: 522
+      alignment: 9
+      pivot: {x: .381980956, y: .259992182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

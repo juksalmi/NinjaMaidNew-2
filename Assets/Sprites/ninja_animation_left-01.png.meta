@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: aecd502794d624d739fb7350726d5db4
+timeCreated: 1433836676
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninja_animation_left-01_1
+    21300002: ninja_animation_left-01_2
+    21300004: ninja_animation_left-01_3
+    21300006: ninja_animation_left-01_6
+    21300008: ninja_animation_left-01_8
+    21300010: ninja_animation_left-01_9
+    21300012: ninja_animation_left-01_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ninja_animation_left-01_1
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 46
+        width: 309
+        height: 577
+      alignment: 9
+      pivot: {x: .41283983, y: .280619174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_left-01_2
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 32
+        width: 284
+        height: 601
+      alignment: 9
+      pivot: {x: .395684034, y: .311786264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_left-01_3
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 38
+        width: 329
+        height: 599
+      alignment: 9
+      pivot: {x: .467255473, y: .324646473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_left-01_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 25
+        width: 491
+        height: 577
+      alignment: 9
+      pivot: {x: .41772151, y: .313292891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_left-01_8
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 28
+        width: 456
+        height: 607
+      alignment: 9
+      pivot: {x: .588594139, y: .322520494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_left-01_9
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 28
+        width: 504
+        height: 599
+      alignment: 9
+      pivot: {x: .633594334, y: .31565401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninja_animation_left-01_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 40
+        width: 457
+        height: 574
+      alignment: 9
+      pivot: {x: .452853471, y: .293548703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

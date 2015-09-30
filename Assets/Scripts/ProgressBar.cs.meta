@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 379495553da7e40ccaa2319c25e981b8
+timeCreated: 1433763394
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - progressBarEmpty: {instanceID: 0}
+  - progressBarFull: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

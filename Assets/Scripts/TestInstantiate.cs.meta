@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2af13021ec64af14e960369efa19f4b1
+timeCreated: 1430391763
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tile: {instanceID: 0}
+  - table: {fileID: 198600, guid: 168c62f6356e94bed85eac52de9aee31, type: 2}
+  - bonsai: {fileID: 195778, guid: b5ba6690610ce4f2eb19083a5e54f36a, type: 2}
+  - pilow: {fileID: 160048, guid: 1c459c16fd95a403584ed11b049ea4f7, type: 2}
+  - partition: {fileID: 191504, guid: 74bd4ebff272e4ac78c89fdf757ba832, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
